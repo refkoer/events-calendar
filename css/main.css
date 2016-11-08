@@ -16,3 +16,16 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+.event {
+  border: 1px #333 solid;
+  border-radius: 8px;
+}
+
+td {
+  height: 10em;
+}
+
+th, td {
+  border: 1px solid #ccc;
+}
