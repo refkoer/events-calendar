@@ -34,6 +34,18 @@ html {
   color: #991919;
 }
 
+.blue {
+  background-color: #d2d6f0;
+  border-color: #1d38da;
+  color: #38448e;
+}
+
+.green {
+  background-color: #d1e0bf;
+  border-color: #6b7e54;
+  color: #51603f;
+}
+
 td {
   height: 10em;
 }
