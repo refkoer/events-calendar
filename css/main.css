@@ -22,6 +22,18 @@ html {
   border-radius: 8px;
 }
 
+.grey {
+  background-color: #f2f2f2;
+  border-color: #666;
+  color: #000;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border-color: #b92828;
+  color: #991919;
+}
+
 td {
   height: 10em;
 }
